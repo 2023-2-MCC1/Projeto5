@@ -82,7 +82,7 @@ public class ZombieController : MonoBehaviour
                     Debug.Log("Hit no gigante");
                     hitsToDestroyGiant++;
 
-                    if (hitsToDestroyGiant == 80) {
+                    if (hitsToDestroyGiant == 100) {
                         Destroy(hit.collider.gameObject);
                         Debug.Log("Venceu!");
                     }
@@ -128,6 +128,8 @@ public class ZombieController : MonoBehaviour
                     break;
                 case 5:
                     FinalRound();
+                    zombiesLeftNumber = 20;
+                    zombiesLeft.text = zombiesLeftNumber.ToString();
                     break;
             }
 

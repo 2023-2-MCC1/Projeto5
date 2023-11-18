@@ -8,11 +8,10 @@ public class ZombieController : MonoBehaviour
     public GameObject zombie;
     public GameObject giant;
     public float range;
-    /* private float timer = 0f; */
 
     private int hitsToDestory = 0;
     private int hitsToDestroyGiant = 0;
-    public Text zombiesLeft, timerText;
+    public Text zombiesLeft, timerText, monsterText;
     public GameObject uiTimer;
     public Image uiFill; //Temporizador visual
 
@@ -128,8 +127,9 @@ public class ZombieController : MonoBehaviour
                     break;
                 case 5:
                     FinalRound();
-                    zombiesLeftNumber = 20;
-                    zombiesLeft.text = zombiesLeftNumber.ToString();
+                    zombiesLeftNumber = 1;
+                    monsterText.text = "Gigante";
+                    zombiesLeft.text = "";
                     break;
             }
 

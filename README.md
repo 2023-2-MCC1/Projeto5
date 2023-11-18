@@ -44,15 +44,21 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 🛠 Instalação - COMO INICIAR O JOGO (3 modos diferentes para inicializar!)
 
 <b>Windows:</b>
 
--> Aqui está o código para ser executado no UNITY HUB, **versão 2022.3.11f1**
--> Aqui está um link para o oneDrive caso queira baixar e testar o jogo:
+->Pode iniciar o jogo no prórpio GITHUBPAGES:
+https://2023-2-mcc1.github.io/Projeto5/
+
+
+-> Caso clone o repositório do github está os arquivos para abrir o UNITY HUB, **versão 2022.3.11f1**
+
+
+-> Aqui está um link para o oneDrive caso queira BAIXAR e JOGAR.
 https://edufecap-my.sharepoint.com/:f:/g/personal/marcospaceka_edu_fecap_br/EhV8pqrFZW9DlM7XFf1lH1IBl8_VlXQroCdgwQFMKu6Rqg?e=OD9KSH
 
-Basta baixar e executar o arquivo .exe para jogar!
+Basta baixar e executar o arquivo Pi.exe para jogar!
 
 
 
@@ -61,6 +67,7 @@ Basta baixar e executar o arquivo .exe para jogar!
 A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.0.1 - 18/11/2023
+  -> versão beta do jogo funcionando, e adicionamos o jogo no githubPages
 
 
 ## 📋 Licença/License

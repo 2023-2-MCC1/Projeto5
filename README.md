@@ -13,13 +13,40 @@
 
 ## Descrição
 
+![imagemGitHub](https://github.com/2023-2-MCC1/Projeto5/assets/123966858/c208b9bd-6619-4028-8af8-ee0a5a9ac6a6)
+
+
 Projeto com foco em desenvolvimento de um jogo utilizando Unity e C#.
 
 <br><br>
 
-Nosso projeto tem como objetivo conscientizar jovens e adultos sobre as dificuldades que indigenas passam por terem que defender suas próprias terras. Essa é uma versão beta do jogo.
+O projeto "Protetores de Yby" foi concebido com o propósito de sensibilizar, conscientizar e educar jovens adultos acerca das questões críticas que impactam a vida terrestre. Este projeto está alinhado com o 15º Objetivo de Desenvolvimento Sustentável (ODS) da ONU, que trata da vida terrestre e busca assegurar a conservação, restauração e uso sustentável do ecossistema terrestre.
+
+Desenvolvido na plataforma Unity, o projeto proporciona uma experiência interativa envolvente. No jogo, os inimigos são representados como monstros (Zumbis e Gigantes) invasores de terras, transformando a experiência em uma abordagem lúcida e cativante.
+
+Através dessa abordagem especial, o jogo não apenas busca entretar, mas também visa transmitir mensagens importantes sobre a presenvação de aldeias indigenas. Combinando a tecnologia do Unity com elementos educativos, o projeto visa inspirar a reflexão e ação dos jovens adultos em relação às questões ambientais.
 
 <br><br>
+
+
+
+## 🛠 Instalação - COMO INICIAR O JOGO (3 modos diferentes para inicializar!)
+
+<b>Windows:</b>
+
+**1º modo**:  Pode iniciar o jogo no próprio GITHUBPAGES:
+https://2023-2-mcc1.github.io/Projeto5/
+
+**2º modo**: Caso clone o repositório do github, abra os arquivos no UNITY HUB na **versão 2022.3.11f1**
+
+**3º modo**: Aqui está um link para o oneDrive caso queira baixar o executável e jogar.
+
+https://edufecap-my.sharepoint.com/:f:/g/personal/marcospaceka_edu_fecap_br/EhV8pqrFZW9DlM7XFf1lH1IBl8_VlXQroCdgwQFMKu6Rqg?e=OD9KSH
+
+Basta baixar e executar o arquivo Pi.exe para jogar!
+
+
+
 
 
 ## 🛠 Estrutura de pastas
@@ -44,23 +71,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
 
 <b>src</b>: Pasta que contém o código fonte.
-
-## 🛠 Instalação - COMO INICIAR O JOGO (3 modos diferentes para inicializar!)
-
-<b>Windows:</b>
-
-->Pode iniciar o jogo no prórpio GITHUBPAGES:
-https://2023-2-mcc1.github.io/Projeto5/
-
-
--> Caso clone o repositório do github está os arquivos para abrir o UNITY HUB, **versão 2022.3.11f1**
-
-
--> Aqui está um link para o oneDrive caso queira BAIXAR e JOGAR.
-https://edufecap-my.sharepoint.com/:f:/g/personal/marcospaceka_edu_fecap_br/EhV8pqrFZW9DlM7XFf1lH1IBl8_VlXQroCdgwQFMKu6Rqg?e=OD9KSH
-
-Basta baixar e executar o arquivo Pi.exe para jogar!
-
 
 
 ## 🗃 Histórico de lançamentos

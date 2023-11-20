@@ -9,14 +9,16 @@
 ## Integrantes: <a href="https://www.linkedin.com/in/marcos-debrito/">Marcos de Brito</a>, <a href="#">Flávio José</a>, <a href="#">Antonio</a>, <a href="#">Marcelo</a>
 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
 
 ## Descrição
 
+Projeto com foco em desenvolvimento de um jogo utilizando Unity e C#.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+
+Nosso projeto tem como objetivo conscientizar jovens e adultos sobre as dificuldades que indigenas passam por terem que defender suas próprias terras. Essa é uma versão beta do jogo.
+
 <br><br>
 
 
@@ -25,8 +27,9 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
+|-->docs<br>
+  &emsp;| Build_githubpages<br>
 |-->src<br>
   &emsp;|-->PI<br>
 |readme.md<br>
@@ -39,8 +42,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
 <b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
 
 <b>src</b>: Pasta que contém o código fonte.
 

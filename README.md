@@ -24,7 +24,7 @@ O projeto "Protetores de Yby" foi concebido com o propósito de sensibilizar, co
 
 Desenvolvido na plataforma Unity, o projeto proporciona uma experiência interativa envolvente. No jogo, os inimigos são representados como monstros (Zumbis e Gigantes) invasores de terras, transformando a experiência em uma abordagem lúcida e cativante.
 
-Através dessa abordagem especial, o jogo não apenas busca entretar, mas também visa transmitir mensagens importantes sobre a presenvação de aldeias indigenas. Combinando a tecnologia do Unity com elementos educativos, o projeto visa inspirar a reflexão e ação dos jovens adultos em relação às questões ambientais.
+Através dessa abordagem especial, o jogo não apenas busca entreter, mas também visa transmitir mensagens importantes sobre a preservação de aldeias indigenas. Combinando a tecnologia do Unity com elementos educativos, o projeto visa inspirar a reflexão e ação dos jovens adultos em relação às questões ambientais.
 
 <br><br>
 

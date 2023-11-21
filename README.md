@@ -6,7 +6,7 @@
 
 # Protetor de Yby
 
-## Integrantes: <a href="https://www.linkedin.com/in/marcos-debrito/">Marcos de Brito</a>, <a href="#">Flávio José</a>, <a href="#">Antonio</a>, <a href="#">Marcelo</a>
+## Integrantes: <a href="https://www.linkedin.com/in/marcos-debrito/">Marcos de Brito</a>, <a href="https://www.linkedin.com/in/flavio-santos-289477209/">Flávio José</a>, <a href="#">Antonio</a>, <a href="#">Marcelo</a>
 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>

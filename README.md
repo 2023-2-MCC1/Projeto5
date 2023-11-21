@@ -28,7 +28,12 @@ Através dessa abordagem especial, o jogo não apenas busca entreter, mas també
 
 <br><br>
 
+## Apresentação e Lore do jogo
+Referências que nos baseamos para criar e desenvolver o jogo:
 
+https://www.canva.com/design/DAFzDoC2f8k/wA1ChoMqE3Irr2tANqDJZQ/view
+
+<br><br>
 
 ## 🛠 Instalação - COMO INICIAR O JOGO (3 modos diferentes para inicializar!)
 
